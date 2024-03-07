@@ -12,7 +12,7 @@ namespace TriangleTest
     public class EquilateralTriangleTest
     {
         [Test]
-        public void ValidEquilateralTriangle_Input60and60and60_OutputValidEquilateralTriangle()
+        public void EquilateralTriangleUnitTestCase()
         {
             // The test is in the A-A-A format
             // Arrange
@@ -21,6 +21,63 @@ namespace TriangleTest
             int thirdSide = 60;
 
             string expected = "Equilateral triangle";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+    }
+
+    public class IsoscelesTriangleTest
+    {
+        [Test]
+        public void IsoscelesTriangleUnitTestCaseOne()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 50;
+            int secondSide = 65;
+            int thirdSide = 65;
+
+            string expected = "Isosceles triangle";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void IsoscelesTriangleUnitTestCaseTwo()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 50;
+            int secondSide = 50;
+            int thirdSide = 80;
+
+            string expected = "Isosceles triangle";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void IsoscelesTriangleUnitTestCaseThree()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 55;
+            int secondSide = 70;
+            int thirdSide = 55;
+
+            string expected = "Isosceles triangle";
 
             // Act
             string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
