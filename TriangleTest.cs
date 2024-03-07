@@ -179,4 +179,61 @@ namespace TriangleTest
             Assert.AreEqual(expected, result);
         }
     }
+
+    public class TriangleWithSideLengthZeroTest
+    {
+        [Test]
+        public void SideEqualsZeroUnitTestCaseOne()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 0;
+            int secondSide = 90;
+            int thirdSide = 90;
+
+            string expected = "Invalid Triangle - a zero has been detected";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void SideEqualsZeroUnitTestCaseTwo()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 90;
+            int secondSide = 0;
+            int thirdSide = 90;
+
+            string expected = "Invalid Triangle - a zero has been detected";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void SideEqualsZeroUnitTestCaseThree()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 90;
+            int secondSide = 90;
+            int thirdSide = 0;
+
+            string expected = "Invalid Triangle - a zero has been detected";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+    }
 }
