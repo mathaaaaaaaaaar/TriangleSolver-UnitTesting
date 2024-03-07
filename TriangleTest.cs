@@ -236,4 +236,61 @@ namespace TriangleTest
             Assert.AreEqual(expected, result);
         }
     }
+
+    public class InvalidTriangleTest
+    {
+        [Test]
+        public void InvalidTriangleUnitTestCaseOne()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 100;
+            int secondSide = 90;
+            int thirdSide = 190;
+
+            string expected = "INVALID!!";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void InvalidTriangleUnitTestCaseTwo()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 50;
+            int secondSide = 10;
+            int thirdSide = 150;
+
+            string expected = "INVALID!!";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void InvalidTriangleUnitTestCaseThree()
+        {
+            // The test is in the A-A-A format
+            // Arrange
+            int firstSide = 90;
+            int secondSide = 20;
+            int thirdSide = 120;
+
+            string expected = "INVALID!!";
+
+            // Act
+            string result = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, result);
+        }
+    }
 }
