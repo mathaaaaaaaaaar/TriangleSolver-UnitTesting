@@ -1,0 +1,212 @@
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/bin/Debug/net7.0/TriangleSolver.exe
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/bin/Debug/net7.0/TriangleSolver.deps.json
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/bin/Debug/net7.0/TriangleSolver.runtimeconfig.json
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/bin/Debug/net7.0/TriangleSolver.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/bin/Debug/net7.0/TriangleSolver.pdb
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/TriangleSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/TriangleSolver.AssemblyInfoInputs.cache
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/TriangleSolver.AssemblyInfo.cs
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/TriangleSolver.csproj.CoreCompileInputs.cache
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/TriangleSolver.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/refint/TriangleSolver.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/TriangleSolver.pdb
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/TriangleSolver.genruntimeconfig.cache
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/ref/TriangleSolver.dll
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/TriangleSolver/obj/Debug/net7.0/TriangleSolver.csproj.AssemblyReference.cache
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/TriangleSolver.csproj.AssemblyReference.cache
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/TriangleSolver.GeneratedMSBuildEditorConfig.editorconfig
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/TriangleSolver.dll
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/refint/TriangleSolver.dll
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/TriangleSolver.pdb
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/TriangleSolver.AssemblyInfoInputs.cache
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/TriangleSolver.AssemblyInfo.cs
+d:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/TriangleSolver.csproj.CoreCompileInputs.cache
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/testhost.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/testhost.exe
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/nunit.engine.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/nunit.engine.api.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/nunit.engine.core.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/testcentric.engine.metadata.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/TriangleSolver.exe
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/TriangleSolver.deps.json
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/TriangleSolver.runtimeconfig.json
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/TriangleSolver.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/TriangleSolver.pdb
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/nunit.framework.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/Triangle.F8A26556.Up2Date
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/TriangleSolver.genruntimeconfig.cache
+D:/Conestoga/Semester02/PROG8171 - Software Quality/Assigments/VSC/TriangleSolver/obj/Debug/net7.0/ref/TriangleSolver.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/nunit.engine.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/TriangleSolver
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/TriangleSolver.deps.json
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/TriangleSolver.runtimeconfig.json
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/TriangleSolver.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/TriangleSolver.pdb
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/testhost.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/nunit.framework.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/mathar/Downloads/TriangleSolver/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.csproj.AssemblyReference.cache
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.AssemblyInfoInputs.cache
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.AssemblyInfo.cs
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.csproj.CoreCompileInputs.cache
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.csproj.CopyComplete
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.dll
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/refint/TriangleSolver.dll
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.pdb
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/TriangleSolver.genruntimeconfig.cache
+/Users/mathar/Downloads/TriangleSolver/obj/Debug/net7.0/ref/TriangleSolver.dll
